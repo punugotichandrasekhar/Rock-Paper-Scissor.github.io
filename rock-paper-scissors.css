@@ -15,7 +15,8 @@ body{
 }
 .reset:hover{
   padding:10px;
-  background-color: blue;;
+  background-color: blue;
+  cursor:pointer;
 }
 button{
   border:2px solid rgb(17, 12, 12);
