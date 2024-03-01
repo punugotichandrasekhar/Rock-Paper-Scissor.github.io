@@ -27,5 +27,6 @@ img{
   border-radius:30px;
 }
 .imgg:hover{
+  cursor:pointer;
   width:110px;height:110px;
 }
