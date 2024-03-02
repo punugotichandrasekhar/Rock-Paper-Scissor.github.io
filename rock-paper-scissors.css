@@ -2,10 +2,10 @@ body{
   color:#ffffff;
   background-color:rgb(10, 10, 10);
   font-family:Arial;
-  font-size:30px;
+  font-size:40px;
 }
 .title{
-  font-size:50px;font-weight:bold;
+  font-size:40px;font-weight:bold;
 }
 .reset{
   font-weight:bold;
@@ -38,11 +38,11 @@ img{
   width:135px;height:135px;
 }
 .imgg:hover{
-  width:135px;height:125px;
+  width:145px;height:145px;
   cursor:pointer;
 }
 @media only screen and (max-width: 500px) {
   body {
-    font-size :60px;
+    font-size:60px;
   }
 }
